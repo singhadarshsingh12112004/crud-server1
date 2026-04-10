@@ -13,14 +13,5 @@
   "type": "module",
   "dependencies": {
     "json-server": "^0.17.4"
-  },
-  "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/singhadarshsingh12112004/crud-server1.git"
-  },
-  "bugs": {
-    "url": "https://github.com/singhadarshsingh12112004/crud-server1/issues"
-  },
-  "homepage": "https://github.com/singhadarshsingh12112004/crud-server1#readme"
+  }
 }
