@@ -1,0 +1,24 @@
+{
+  "students": [
+    {
+      "id": "11",
+      "name": "Krishna Kumar Sondhiya",
+      "email": "krishnakumarsondhiya260498@gmail.com",
+      "address": "patli pura",
+      "city": "Indore",
+      "phone": "07067386612",
+      "age": "24",
+      "gender": "Male"
+    },
+    {
+      "id": "12",
+      "name": "Nikita ",
+      "age": "22",
+      "email": "nikita22@gmail.com",
+      "address": "Mohan Nagar",
+      "gender": "Female",
+      "city": "Indore",
+      "phone": "7845143210"
+    }
+  ]
+}
